@@ -1,7 +1,7 @@
-<h1 align="center">mohammad-reza-shafiei</h1>
+<h1 align="center">Mohammad Reza Shafiei</h1>
 
 <p align="center">
-  <code>frontend developer</code> · <code>web tinkerer</code> · <code>linux enjoyer</code>
+  <code>developer</code> · <code>web tinkerer</code> · <code>linux enjoyer</code>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 $ neofetch
 
 OS        :: Linux
-ROLE      :: Front-End Developer
+ROLE      :: Full-Stack Developer
 MODE      :: building / breaking / rebuilding
 CURRENT   :: JavaScript · React · Next.js
 INTERESTS :: Web · UI · tooling · open source
@@ -72,5 +72,5 @@ email     ::  shafieipro@gmail.com
 ```
 
 <p align="center">
-  <sub>built with curiosity · powered by caffeine · debugged in production</sub>
+  <sub>built with curiosity · no caffeine · debugged in production</sub>
 </p>
